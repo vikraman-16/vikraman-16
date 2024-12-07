@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Looney Tunes GIF" width="500">
 <h1 align="center">Hi 👋, I'm Vikraman P</h1>
 <h3 align="center">Prefinal-year cybersecurity student at Chennai Institute of Technology, passionate about ethical hacking, digital forensics, and network security.</h3>
 
